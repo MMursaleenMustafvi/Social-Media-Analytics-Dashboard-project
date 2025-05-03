@@ -1,0 +1,8 @@
+Date,Platform,SentimentScore,Likes,Shares,Comments
+2023-01-01,Instagram,0.8,200,30,15
+2023-01-02,Twitter,0.2,50,5,10
+2023-01-03,Facebook,0.6,180,25,12
+2023-01-04,Instagram,0.7,250,40,18
+2023-01-05,Twitter,0.4,70,8,9
+2023-01-06,Facebook,0.5,160,22,11
+2023-01-07,Instagram,0.9,300,50,20
